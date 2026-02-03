@@ -139,5 +139,3 @@ ISC
 For issues, questions, or suggestions, please open an issue in the repository.
 
 ---
-
-**Note**: This tool uses AI to generate and execute shell commands on your system. Always review the generated commands and ensure you understand what they do before confirming execution in production environments.
